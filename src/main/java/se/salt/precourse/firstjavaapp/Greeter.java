@@ -6,7 +6,7 @@ import java.io.InputStreamReader;
 
 public class Greeter {
   private static String greet(String namePassedIn) {
-    return "Welcome to SALT, ";
+    return "Welcome to SALT, " + namePassedIn;
   }
 
   public static void main(String[] args) throws IOException {
