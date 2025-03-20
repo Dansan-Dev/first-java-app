@@ -24,6 +24,11 @@
             <version>5.9.0-M1</version>
             <scope>test</scope>
         </dependency>
+        <dependency>
+            <groupId>org.springframework.boot</groupId>
+            <artifactId>spring-boot-starter</artifactId>
+            <version>3.0.7</version>
+        </dependency>
     </dependencies>
 
     <build>
